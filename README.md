@@ -33,12 +33,12 @@ You can download custom texture packs from websites like https://gbatemp.net and
 
 ### Normal Covers:
 ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
-  ```
+https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+```
 ### 3D Covers:
 ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
- ```
+https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
+```
 Copy one of the Normal or 3D links and paste it in Tools -> Cover Downloader, then press Start
 
 ## ⚙️Default Settings

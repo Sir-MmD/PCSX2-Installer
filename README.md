@@ -6,7 +6,7 @@ This script aims to set up PCSX2 (PlayStation 2 Emulator) faster and more simply
 Simply execute the script and wait until it finishes.
 
 ## 🎬Installation Tutorial
-SOON
+https://www.youtube.com/watch?v=INGQxIoP3Ds
 
 ## 📀Download Games
 Once the script has finished the installation, you can now download your PS2 game ROM from the internet or use one from the list below:

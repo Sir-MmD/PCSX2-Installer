@@ -44,6 +44,9 @@ Copy one of the Normal or 3D links and paste it in Tools -> Cover Downloader, th
 ## ⚙️Default Settings
 This script sets the upscale resolution to "4K (2160p)" by default and "16x" for anisotropic filtering. You can modify these settings in Settings -> Graphics -> Rendering
 
+The FPS counter can also be disabled in Settings -> Graphics -> OSD
+
+Theme of the PCSX2 is set to "Ruby". You can select other themes in Settings -> Interface -> Theme
 ## ℹ️More Info
 This script places all data inside the PCSX2 folder, which means you can also use it as a portable solution for PCSX2.
 

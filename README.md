@@ -1,4 +1,4 @@
-# 🎮PCSX2-Installer
+# 🎮PCSX2-Installer (Windows)
 ![App Screenshot](https://raw.githubusercontent.com/Sir-MmD/PCSX2-Installer/refs/heads/main/banner.png)
 ## What does this script do?
 This script aims to set up PCSX2 (PlayStation 2 Emulator) faster and more simply.
